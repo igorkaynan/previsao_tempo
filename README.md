@@ -39,6 +39,8 @@ O app solicitará permissão para acessar sua localização e mostrará o clima 
 
     Execute o comando para iniciar o Expo:
     npm start ou yarn start
+   
+![previsao_tempo](https://github.com/user-attachments/assets/6c39cec5-ca88-4226-bd1d-6e81c3e675fa)
 
 > **Nota:** Nota: Certifique-se de ter o Node.js, npm/yarn, e o Expo CLI instalados corretamente para garantir o funcionamento do projeto. Também é necessário uma conexão ativa com a internet para buscar os dados do clima.
 
